@@ -13,5 +13,7 @@ group :jekyll_plugins do
   # gem "jekyll-feed"
   # gem "jemoji"
   # gem "jekyll-algolia"
-  gem 'jekyll-include-cache' # 추가
+  # >>>>>>>>>>>>>>>>>>>추가
+  gem 'jekyll-include-cache' 
+  gem "jekyll-last-modified-at"
 end
